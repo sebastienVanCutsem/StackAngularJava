@@ -1,0 +1,6 @@
+be\oniryx\controllers\PersonController.class
+be\oniryx\dao\PersonDao.class
+be\oniryx\CartographyApplication.class
+be\oniryx\controllers\UIApplication.class
+be\oniryx\model\Person.class
+be\oniryx\SecurityConfiguration.class
